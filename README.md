@@ -1,4 +1,4 @@
-﻿<h1 align = "justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, me chamo Pedro César</h1>
+﻿<h1 align = "justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px" height="24px">, me chamo Pedro César</h1>
 
 [![Github](https://img.shields.io/badge/-pedrocs378-6633cc?style=flat&logo=Github&logoColor=white)](https://github.com/pedrocs378)
 [![Linkedin](https://img.shields.io/badge/-Pedro%20César%20Vagner%20Nogueira-6633cc?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-c%C3%A9sar-vagner-nogueira-64a1ab151/)
