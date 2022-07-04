@@ -17,13 +17,17 @@
 ![Tech: Javascript](https://img.shields.io/badge/Javascript-gray?logo=javascript&style=for-the-badge)
 ![Tech: Typescript](https://img.shields.io/badge/Typescript-gray?logo=typescript&style=for-the-badge)
 
+![Tech: Vite](https://img.shields.io/badge/Vite-gray?logo=vite&style=for-the-badge)
 ![Tech: React](https://img.shields.io/badge/React-gray?logo=react&style=for-the-badge)
 ![Tech: Next](https://img.shields.io/badge/Next-gray?logo=next-dot-js&style=for-the-badge)
 ![Tech: React Native](https://img.shields.io/badge/React%20Native-gray?logo=react&style=for-the-badge)
+![Tech: GraphQL](https://img.shields.io/badge/GraphQL-gray?logo=graphql&style=for-the-badge)
 ![Tech: Node](https://img.shields.io/badge/Node-gray?logo=node-dot-js&style=for-the-badge)
 
 ![Tech: SASS](https://img.shields.io/badge/SASS-gray?logo=sass&style=for-the-badge)
+![Tech: Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-gray?logo=tailwindcss&style=for-the-badge)
 ![Tech: Styled-Components](https://img.shields.io/badge/Styled%20Components-gray?logo=styled-components&style=for-the-badge)
+![Tech: Chakra UI](https://img.shields.io/badge/Chakra%20UI-gray?logo=chakra-ui&style=for-the-badge)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
