@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-Pedro%20César%20Vagner%20Nogueira-6633cc?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-c%C3%A9sar-vagner-nogueira-64a1ab151/)
 [![Gmail](https://img.shields.io/badge/-pedrocs378@gmail.com-6633cc?style=flat&logo=Gmail&logoColor=white)](mailto:pedrocs378@gmail.com)
 
-<p>Tenho 24 anos, moro em Valparaíso/SP e sou formado em Engenharia da Computação pela UniSalesiano de Araçatuba/SP.</p>
+<p>Tenho 26 anos, moro em Valparaíso/SP e sou formado em Engenharia da Computação pela UniSalesiano de Araçatuba/SP.</p>
 
 <p>Comecei a me interessar por desenvolvimento Web no final de 2019, e de lá pra ca venho me interessando cada vez mais por Javascript e frameworks como React.</p>
 
